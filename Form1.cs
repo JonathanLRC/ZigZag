@@ -16,7 +16,7 @@ namespace ZigZag
         Label[] Columna2 = new System.Windows.Forms.Label[7];
         Color[] Colores = new Color[10];
         Random r = new Random();
-        System.Media.SoundPlayer sp = new System.Media.SoundPlayer(@"..\..\..\Musica.wav");
+        System.Media.SoundPlayer sp = new System.Media.SoundPlayer(@"..\..\Resources\Musica.wav");
         int limite = 4;
         int score = 0;
         int turno = 1;
