@@ -2,5 +2,10 @@
 
 A Windows Forms replica of the ZigZag mobile game
 
-![alt text](https://raw.githubusercontent.com/JonathanLRC/ZigZag/master/MainScreen.PNG)
-![alt text](https://raw.githubusercontent.com/JonathanLRC/ZigZag/master/LevelScreen.PNG)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JonathanLRC/ZigZag/master/MainScreen.PNG" alt="Main Screen"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JonathanLRC/ZigZag/master/LevelScreen.PNG" alt="Level Screen"/>
+</p>
